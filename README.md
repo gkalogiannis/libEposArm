@@ -1,19 +1,21 @@
 
 This repo includes the necessary libs for EPOS....
 
-EPOS Command Library
+<www.epos.com/>
 
-1) Download and extract the zip file to a temporary directory.
+**EPOS Command Library**
 
-2) Select your target architecture directory (x86, x86_64, arm hf/sf/rpi).
+1.Download and extract the zip file to a temporary directory.
 
-     **a)** x86: 32-bit operating system for Intel/AMD processors
+2.Select your target architecture directory (x86, x86_64, arm hf/sf/rpi).
 
-     **b)** x86_64: 64-bit operating system for Intel/AMD processors
+a) **x86**: 32-bit operating system for *Intel/AMD* processors
 
-     **c)** arm rpi: 32-bit operating system (hard float) for ARMv6 processors
+b) **x86_64**: 64-bit operating system for *Intel/AMD* processors
+
+c) **arm rpi**: 32-bit operating system (hard float) for *ARMv6* processors
      
-     **d)** arm sf/hf: 32-bit operating system (soft/hard float) for ARMv7 processors
+d) ** arm sf/hf**: 32-bit operating system (soft/hard float) for *ARMv7* processors
 
 3) Take note that the following actions will require root privileges.
 
