@@ -7,13 +7,13 @@ EPOS Command Library
 
 2) Select your target architecture directory (x86, x86_64, arm hf/sf/rpi).
 
-   a) x86: 32-bit operating system for Intel/AMD processors
+     **a)** x86: 32-bit operating system for Intel/AMD processors
 
-   b) x86_64: 64-bit operating system for Intel/AMD processors
+     **b)** x86_64: 64-bit operating system for Intel/AMD processors
 
-   c) arm rpi: 32-bit operating system (hard float) for ARMv6 processors
-
-   d) arm sf/hf: 32-bit operating system (soft/hard float) for ARMv7 processors
+     **c)** arm rpi: 32-bit operating system (hard float) for ARMv6 processors
+     
+     **d)** arm sf/hf: 32-bit operating system (soft/hard float) for ARMv7 processors
 
 3) Take note that the following actions will require root privileges.
 
@@ -38,5 +38,3 @@ EPOS Command Library
       $ sudo cp libEposCmd.so.5.0.1.0 /usr/lib/libEposCmd.so
 
 5) Optional: Copy the file “Defintions.h” to the directory “/usr/include”.
-
-
