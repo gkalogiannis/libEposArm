@@ -1,9 +1,5 @@
 
-This repo includes the necessary libs for EPOS....
-
-<www.epos.com/>
-
-**EPOS Command Library**
+http://www.maxonmotor.com/medias/sys_master/8815100788766/EPOS-Command-Library-En.pdf
 
 1.Download and extract the zip file to a temporary directory.
 
